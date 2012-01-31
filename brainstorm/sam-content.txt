@@ -1,0 +1,68 @@
+1	You are standing in a park. There is is a thin layer of snow covering everything. You arrived here to meet a rescue dog. The people from the kennel are nowhere to be seen, but the dog is here. He is an 11 year old lurcher named Sam. He looks emaciated. He is sniffing the ground and doesn't seem to have noticed you.
+1-2	Ignore Sam, drive home and go eat a burrito in Angel.
+1-3	Approach Sam and offer him a dog biscuit.
+
+2	You never see Sam again. One day you hear a rumour about a savage skeleton dog that eats off-lead poodles and homeless children.
+
+3	Sam looks at you warily, but seems vaguely interested in your dog biscuit. He sniffs it, takes it in his mouth then drops it in the snow.
+3-4	Pat Sam gently on the head.
+3-5	Pat Sam with over-enthusiasm.
+
+5	Sam snaps at you angrily and snarls as you back away.
+5-2	Run away.
+
+4	Sam lets you pat his head while he looks at his snowy dog biscuit.
+4-6	Pick up the dog biscuit and offer it to Sam again.
+6-7	Attach a lead to Sam's collar and take him with you.
+
+6	Sam takes the dog biscuit again. He has to toss it and snap at it (like a bird), eventually he manages to break it up. He seemed to like it.
+6-7	Attach a lead to Sam's collar and take him with you.
+
+7	Sam doesn't seem to be putting up much of a fight, he walks unsteadily as you pull him towards the car. He very reluctantly clambers into the back seat. On the way home he keeps falling off the seat and snaps at you if you try to help him. Eventually you introduce him to his new house. He walks unsteadily into the middle of the lounge room, there is already a dog bed made up for him.
+7-8	Take Sam on a tour of the house.
+7-9	Invite a select few friends over to meet him.
+
+8	Sam takes a lot of encouragement, but eventually he follows you around the house unsteadily. He seems interested in your bed, but doesn't climb on, like he's wants permission.
+8-10	Invite Sam up onto your bed.
+
+9	A couple of friends come over to meet him. They adore and pity his beautiful, but emaciated frame. Everyone is respectful around him. Sam greets them and accepts dog biscuits and schmackos. Later he is laying on the carpet in the lounge room being patted when he begins to growl. He goes into your room and stands by your bed looking at it.
+9-10	Invite Sam up onto your bed.
+
+10	Sam climbs up onto your bed and lays down. He's had an exhausting and stressful day. You check on him later and he glares at you.
+10-11	Go sleep on the couch.
+
+11	It is a new day! (root morning node). Sam is stressed. Sam is wagging his tail. Sam spends the morning following you around the house.
+
+12	What will you feed Sam today?
+12-13	Dried dog food.
+12-14 Tinned dog food.
+12-15	Turkey mince.
+12-13	Bread and almond paste.
+12-13	Beef mince.
+
+
+
+12-13	Ham.
+
+
+
+13	Sam needs a walk.
+13-14	Take Sam for a walk in the park.
+13-14	Take Sam for a walk to the market.
+13-14	Take Sam for a walk to the cafe.
+13-14	Take Sam for a walk along the canal.
+13-13	Put a muzzle on Sam first. (Without a muzzle, Sam will incrementally growl and bark at other dogs, attack other dogs, then bite a kid, 3 strikes and game over)
+
+14	What will you do with your afternoon?
+14-15	Do some work.
+14-15	Drink gin and watch iPlayer.
+14-15	Drink gin and watch Hulu.
+14-15	Drink gin and dance in the lounge room (Sam hates this, he will go the bedroom and not get off the bed)
+
+15	Where will you let Sam sleep tonight?
+15-16	Put Sam's bed in the lounge room on the floor.
+15-16	Put Sam's bed in the bathroom.
+15-16	Lock Sam in the lounge room and fold out the couch for him to sleep on.
+15-16  Let Sam sleep on your bed and go sleep on the couch.
+15-16	Let Sam sleep on your bed with you.
+
